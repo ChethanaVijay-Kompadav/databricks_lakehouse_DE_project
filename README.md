@@ -9,4 +9,4 @@ I have designed architecture, improved data quality, model data for analytics, a
 By the end,  i had a production-style Lakehouse which can be used for further analytics.
 
 ## Data Architecture
-![image_1769678117866.png](./image_1769678117866.png "image_1769678117866.png")
+![Uploading image.png…]()
